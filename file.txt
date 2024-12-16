@@ -1,2 +1,7 @@
 This is new file
+<<<<<<< HEAD
 This is modified by local repo
+=======
+Changed by github repo
+>>>>>>> refs/remotes/origin/main
+This file modified on newbranch
